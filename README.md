@@ -4,7 +4,6 @@ Welcome to the Freelancer Fintech App repository! This app is designed to provid
 
 
 ![Main Image](https://github.com/Tallents-Valley/Talents-Valey-Mobile/assets/28483872/dc4a2812-440e-49d9-b37b-f567f6ae45fb)
-![Secaund Image](https://github.com/Tallents-Valley/Talents-Valey-Mobile/assets/28483872/d2fe1271-6f7f-40c9-8e7c-5981a6b8fb84)
 
 ## Table of Contents
 

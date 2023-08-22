@@ -126,15 +126,6 @@ The development of the Freelancer Fintech App is a collaborative effort involvin
 
 The Freelancer Fintech App is built using the Flutter framework, leveraging the power of Dart programming language. Flutter enables seamless cross-platform development, allowing us to create a single codebase for both mobile and web applications. This approach ensures consistent user experience and reduces development efforts across multiple platforms.
 
-## Getting Started
-
-To get started with the Freelancer Fintech App, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/freelancer-fintech-app.git`
-2. Install the required dependencies: `flutter pub get`
-3. Run the app: `flutter run`
-
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

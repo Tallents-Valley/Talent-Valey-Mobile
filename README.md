@@ -1,9 +1,8 @@
 # Freelancer Fintech App
 
-Welcome to the Freelancer Fintech App repository! This app is designed to provide freelancers with a streamlined solution to withdraw their earnings from global platforms using local payment methods. It caters to freelancers, teams (business owners), and clients, offering a range of features to enhance financial interactions and management.
+Welcome to the Freelancer Fintech App repository! This app is designed as a Minimum Viable Product (MVP) to provide freelancers with a streamlined solution to withdraw their earnings from global platforms using local payment methods. The app targets the local market and is accessible on both mobile devices and web browsers.
 
-
-![Main Image](https://github.com/Tallents-Valley/Talents-Valey-Mobile/assets/28483872/dc4a2812-440e-49d9-b37b-f567f6ae45fb)
+![Main Image](https://github.com/Tallents-Valley/Talents-Valey-Mobile/assets/28483872/9ac6e07e-9129-44c9-80bc-351f1d854371)
 
 ## Table of Contents
 
@@ -19,12 +18,14 @@ Welcome to the Freelancer Fintech App repository! This app is designed to provid
 - - [Team Dashboard](#team-dashboard)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
+- [Collaboration with Different Teams](#collaboration-with-different-teams)
+- [Cross-Platform Development with Flutter & Dart](#cross-platform-development-with-flutter--dart)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
 
-The Freelancer Fintech App is built to provide a user-friendly experience for freelancers, teams, and clients. Its primary goal is to facilitate fund withdrawals, financial interactions, and efficient management of accounts. The app is equipped with various features to ensure seamless transactions, secure account management, and effective communication.
+The Freelancer Fintech App is designed to serve as a MVP solution for freelancers, teams, and clients within the local market. It offers a streamlined way to withdraw earnings using local payment methods while maintaining cross-platform compatibility between mobile devices and web browsers.
 
 ## User Roles
 
@@ -47,41 +48,42 @@ The Freelancer Fintech App is built to provide a user-friendly experience for fr
 
 ## Features
 
-### Authentication and Verification
+Authentication and Verification
 
 - Users can register and log in securely.
 - Multi-factor verification using email, mobile number, ID verification, and address verification ensures account security.
 
-### Invoice System
+Invoice System
 
 - Freelancers can generate and manage invoices for their services.
 - Clients can view and process invoices for payments.
 
-### Withdrawal System
+Withdrawal System
 
 - Freelancers can initiate fund withdrawals using local payment methods.
 - Integration with Stripe payment gateway for seamless transactions.
 
-### Notification System
+Notification System
 
 - Integration with OneSignal for sending relevant notifications to users.
 - Notifications for account activities, transactions, and updates.
 
-### Contacts Management
+Contacts Management:
 
 - Users can manage their contact information.
 - Improved communication between freelancers and clients.
 
-### Personal Information Management
+Personal Information Management:
 
 - Users can maintain and update their personal details.
 - Ensures accurate and up-to-date user information.
 
-### Team Dashboard
+Team Dashboard:
 
 - Team members (business owners) access a comprehensive dashboard.
 - User management features for handling freelancer accounts.
 - Monitoring and tracking of team activities.
+
 
 ## Technology Stack
 
@@ -96,6 +98,34 @@ The Freelancer Fintech App is built to provide a user-friendly experience for fr
 - REST APIs for seamless communication between frontend and backend.
 - Testing framework for ensuring app reliability.
 
+## Collaboration with Different Teams
+
+The development of the Freelancer Fintech App is a collaborative effort involving various teams:
+
+1. **Product Managers:**
+   - Responsible for defining project goals and requirements.
+   - Coordinate feature prioritization and roadmap planning.
+
+2. **Designers Team:**
+   - Creates visually appealing and user-friendly app designs.
+   - Ensures a consistent and intuitive user interface across platforms.
+
+3. **Mobile Developer Teams:**
+   - Implements app functionality using Flutter and Dart.
+   - Ensures compatibility and responsiveness on both mobile devices and web browsers.
+
+4. **Backend Team:**
+   - Develops the Node.js backend for data storage, authentication, and payment gateway integration.
+   - Ensures secure and efficient communication between frontend and backend.
+
+5. **Frontend Teams:**
+   - Develops the React-based web frontend, maintaining the same user experience as the mobile app.
+   - Collaborates with mobile teams to ensure consistency in design and functionality.
+
+## Cross-Platform Development with Flutter & Dart
+
+The Freelancer Fintech App is built using the Flutter framework, leveraging the power of Dart programming language. Flutter enables seamless cross-platform development, allowing us to create a single codebase for both mobile and web applications. This approach ensures consistent user experience and reduces development efforts across multiple platforms.
+
 ## Getting Started
 
 To get started with the Freelancer Fintech App, follow these steps:
@@ -104,15 +134,6 @@ To get started with the Freelancer Fintech App, follow these steps:
 2. Install the required dependencies: `flutter pub get`
 3. Run the app: `flutter run`
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your feature/fix: `git checkout -b feature-name`
-3. Make your changes and commit: `git commit -m "Description of changes"`
-4. Push your changes to your forked repository: `git push origin feature-name`
-5. Open a pull request to this repository.
 
 ## License
 

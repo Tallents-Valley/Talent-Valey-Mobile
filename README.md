@@ -3,6 +3,7 @@
 Welcome to the Freelancer Fintech App repository! This app is designed as a Minimum Viable Product (MVP) to provide freelancers with a streamlined solution to withdraw their earnings from global platforms using local payment methods. The app targets the local market and is accessible on both mobile devices and web browsers.
 
 ![Main Image](https://github.com/Tallents-Valley/Talents-Valey-Mobile/assets/28483872/9ac6e07e-9129-44c9-80bc-351f1d854371)
+<img width="1045" alt="Bildschirmfoto 2023-08-22 um 21 20 23" src="https://github.com/Tallents-Valley/Talent-Valey-Mobile/assets/28483872/d78810d8-0e1b-46a6-9c33-fa8f9cbb6468">
 
 ## Table of Contents
 
